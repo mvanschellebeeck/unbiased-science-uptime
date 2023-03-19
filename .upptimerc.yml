@@ -3,6 +3,8 @@ owner: mvanschellebeeck # Your GitHub organization or username, where this repos
 repo: unbiased-science-uptime # The name of this repository
 
 sites:
+  - name: Google (Test)
+    url: https://www.google.com
   # Re-enable after GA filters requests out
   # - name: Unbiased Science Sources
   #   url: https://uspodsources.com
