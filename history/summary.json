@@ -1,20 +1,20 @@
 [
   {
-    "name": "Unbiased Science Sources",
-    "url": "https://uspodsources.com",
-    "icon": "https://icons.duckduckgo.com/ip3/uspodsources.com.ico",
-    "slug": "unbiased-science-sources",
+    "name": "Google (Test)",
+    "url": "https://www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "slug": "google-test",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 58,
+    "timeDay": 58,
+    "timeWeek": 58,
+    "timeMonth": 58,
+    "timeYear": 58,
     "dailyMinutesDown": {}
   }
 ]
